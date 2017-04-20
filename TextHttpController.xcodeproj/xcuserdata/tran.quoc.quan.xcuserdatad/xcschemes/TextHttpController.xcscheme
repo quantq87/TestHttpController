@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A248D5631EA70F9300F0CB69"
-               BuildableName = "HttpController.framework"
-               BlueprintName = "HttpController"
-               ReferencedContainer = "container:../HttpController/HttpController.xcodeproj">
+               BlueprintIdentifier = "A2E592561EA88D5F00FA3395"
+               BuildableName = "UserController.framework"
+               BlueprintName = "UserController"
+               ReferencedContainer = "container:../../UserController/UserController/UserController.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
